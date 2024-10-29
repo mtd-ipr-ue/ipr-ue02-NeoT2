@@ -12,14 +12,14 @@ public class ue02_1 {
         int c = In.readInt();
 
         if (a>b && a>c) {
-            System.out.println(a + " ist die größte Zahl");
+            System.out.println(a + " is the biggest number out of these numbers.");
         }   
             else if (b>a && b>c) {
-                System.out.println(b + " ist die größte Zahl");
+                System.out.println(b + " is the biggest number out of these numbers.");
                 
             }
             else 
-            System.out.println(c + " ist die größte Zahl");
+            System.out.println(c + " is the biggest number out of these numbers.");
         }
     }
 
